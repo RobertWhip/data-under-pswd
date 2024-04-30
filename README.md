@@ -1,8 +1,8 @@
 # data-under-pswd
 
 Protect your seed-phrase:
-1. Encrypt your seed-phrase: python3 run.py encrypt <password> <seed_phrase>
-2. Decrypt your seed-phrase: python3 run.py decrypt <password> <hash>
+1. Encrypt your seed-phrase: python3 run.py encrypt <your_password> <your_seed_phrase>
+2. Decrypt your seed-phrase: python3 run.py decrypt <your_password> <your_hash>
 
 
 Example:
